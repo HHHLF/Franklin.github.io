@@ -99,7 +99,7 @@ a Modality-Unified Label Transfer (MULT) module that simultaneously accounts for
   <div>
     <strong>CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning</strong><br>
     <strong>Lingfeng He</strong>, De Cheng, Zhiheng Ma, Huaijie Wang, Dingwen Zhang, Nannan Wang, Xinbo Gao<br>
-    <em>Under TIP peer review</em><br><br>
+    <em>Under IEEE Transactions on Image Processing (TIP) peer review</em><br><br>
 
     <a href="images/ckaa.pdf">[PDF]</a> 
     <a href="https://www.arxiv.org/pdf/2507.09471">[Arxiv]</a> 
