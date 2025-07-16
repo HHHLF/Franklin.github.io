@@ -93,8 +93,6 @@ a Modality-Unified Label Transfer (MULT) module that simultaneously accounts for
 
 ## Preprint or Unpublished Papers
 
----
-
 <div style="display: flex; align-items: flex-start; margin-top: 10px;">
   <img src="images/ckaa.png" alt="CKAA Framework" width="300" style="margin-right: 20px;">
   
