@@ -35,12 +35,12 @@ I am a second-year master's student at Xidian University, advised by Prof. De Ch
     <a href="https://arxiv.org/pdf/2305.12673">[Arxiv]</a> 
     <a href="https://github.com/FranklinLingfeng/MBCCM-master-MM-23">[Code]</a>
 
-    <details style="margin-top:10px;">
-      <summary><strong>Abstract</strong></summary>
-      <small>
+  <details style="margin-top:10px;">
+    <summary><strong>Abstract</strong></summary>
+    <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; border: 1px solid #ddd; font-size: 0.85em; line-height: 1.3;">
       Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to match pedestrian images of the same identity from different modalities without annotations. Existing works mainly focus on alleviating the modality gap by aligning instance-level features of the unlabeled samples. However, the relationships between cross-modality clusters are not well explored. To this end, we propose a novel bilateral cluster matching-based learning framework to reduce the modality gap by matching cross-modality clusters. Specifically, we design a Many-to-many Bilateral Cross-Modality Cluster Matching (MBCCM) algorithm through optimizing the maximum matching problem in a bipartite graph. Then, the matched pairwise clusters utilize shared visible and infrared pseudo-labels during the model training. Under such a supervisory signal, a Modality-Specific and Modality-Agnostic (MSMA) contrastive learning framework is proposed to align features jointly at a cluster-level. Meanwhile, the cross-modality Consistency Constraint (CC) is proposed to explicitly reduce the large modality discrepancy. Extensive experiments on the public SYSU-MM01 and RegDB datasets demonstrate the effectiveness of the proposed method, surpassing state-of-the-art approaches by a large margin of 8.76% mAP on average.
-      </small>
-    </details>
+    </div>
+  </details>
   </div>
 </div>
 
