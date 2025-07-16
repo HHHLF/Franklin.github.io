@@ -89,5 +89,33 @@ a Modality-Unified Label Transfer (MULT) module that simultaneously accounts for
   </div>
 </div>
 
+---
+
+## Preprint or Unpublished Papers
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-top: 10px;">
+  <img src="images/ckaa.png" alt="CKAA Framework" width="300" style="margin-right: 20px;">
+  
+  <div>
+    <strong>CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning</strong><br>
+    <strong>Lingfeng He</strong>, De Cheng, Zhiheng Ma, Huaijie Wang, Dingwen Zhang, Nannan Wang, Xinbo Gao<br>
+    <em>Under TIP peer review</em><br><br>
+
+    <a href="images/ckaa.pdf">[PDF]</a> 
+    <a href="https://www.arxiv.org/pdf/2507.09471">[Arxiv]</a> 
+
+  <details style="margin-top:10px;">
+    <summary><strong>Abstract</strong></summary>
+    <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; border: 1px solid #ddd; font-size: 0.85em; line-height: 1.3;">
+      Abstract—Continual Learning (CL) empowers AI models to continuously learn from sequential task streams. Recently, parameter-efficient fine-tuning (PEFT)-based CL methods have garnered increasing attention due to their superior performance. They typically allocate a unique sub-module for learning each task, with a task recognizer to select the appropriate submodules for testing images. However, due to the feature subspace misalignment from independently trained sub-modules, these methods tend to produce ambiguous decisions under misleading task-ids. To address this, we propose Cross-subspace Knowledge Alignment and Aggregation (CKAA), a novel framework that enhances model robustness against misleading task-ids through two key innovations: (1) Dual-level Knowledge Alignment (DKA): By aligning intra-class feature distributions across different subspaces and learning a robust global classifier through a feature simulation process, DKA enables the model to distinguish features from both correct and incorrect subspaces during training. (2) Task-Confidence-guided Mixture of Adapters (TC-MoA): A robust inference scheme that adaptively aggregates task-specific knowledge from relevant sub-modules based on task-confidence scores, avoiding overconfidence in misleading task-id predictions. Extensive experiments demonstrate that CKAA outperforms existing PEFT-based CL methods.
+    </div>
+  </details>
+  </div>
+</div>
+
+---
+
 
 
