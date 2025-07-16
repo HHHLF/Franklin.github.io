@@ -14,24 +14,18 @@ I am a second-year master's student at Xidian University, advised by Prof. De Ch
 ---
 permalink: /
 title: "Publications (*equal contribution; only papers as first authors are included; double click to view abstract)"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ### Efficient bilateral cross-modality cluster matching for unsupervised visible-infrared person reid
 
 De Cheng*, Lingfeng He*, Nannan Wang, Shizhou Zhang, Zhen Wang, Xinbo Gao
 *Proceedings of the 31st ACM international conference on multimedia (ACM MM), 2023 (CCF-A, Oral)*
-[[PDF]](your_pdf_link.pdf) [[Arxiv]]([your_bibtex_link.bib](https://arxiv.org/pdf/2305.12673))
+[PDF](images/mbccm.pdf) [Arxiv](https://arxiv.org/pdf/2305.12673) [code](https://github.com/FranklinLingfeng/MBCCM-master-MM-23)
 
 <div style="display: flex; align-items: flex-start; margin-top: 10px;">
-  <img src="/assets/images/PMAN_diagram.png" alt="PMAN Network" width="300" style="margin-right: 20px;">
+  <img src="images/mbccm.png" alt="MBCCM Framework" width="300" style="margin-right: 20px;">
   <p>
-    Text-based person search aims to retrieve the target person in an image gallery based on textual descriptions.  
-    We propose a Part-based Multi-Scale Attention Network (PMAN), which extracts visual semantic features at different scales and aligns them with textual features using ResNet, BERT, and Bottleneck Transformer.  
-    Our method achieves state-of-the-art performance on the CUHK-PEDES dataset.
+    Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to match pedestrian images of the same identity from different modalities without annotations. Existing works mainly focus on alleviating the modality gap by aligning instance-level features of the unlabeled samples. However, the relationships between crossmodality clusters are not well explored. To this end, we propose a novel bilateral cluster matching-based learning framework to reduce the modality gap by matching cross-modality clusters. Specifically, we design a Many-to-many Bilateral Cross-Modality Cluster Matching (MBCCM) algorithm through optimizing the maximum matching problem in a bipartite graph. Then, the matched pairwise clusters utilize shared visible and infrared pseudo-labels during the model training. Under such a supervisory signal, a ModalitySpecific and Modality-Agnostic (MSMA) contrastive learning framework is proposed to align features jointly at a cluster-level. Meanwhile, the cross-modality Consistency Constraint (CC) is proposed to explicitly reduce the large modality discrepancy. Extensive experiments on the public SYSU-MM01 and RegDB datasets demonstrate the effectiveness of the proposed method, surpassing state-of-theart approaches by a large margin of 8.76% mAP on average.
   </p>
 </div>
 
