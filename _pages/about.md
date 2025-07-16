@@ -11,9 +11,7 @@ I am a second-year master's student at Xidian University, advised by Prof. De Ch
 
 [Email: lfhe@stu.xidian.edu.cn](lfhe@stu.xidian.edu.cn) / [Github](https://github.com/FranklinLingfeng) / [Google scholar](https://scholar.google.com/citations?user=bUCPpbAAAAAJ&hl=zh-CN)
 
----
-permalink: /
-title: "Publications (*equal contribution; only papers as first authors are included; double click to view abstract)"
+## Publications (*equal contribution; only papers as first authors are included; double click to view abstract)
 ---
 
 ### Efficient bilateral cross-modality cluster matching for unsupervised visible-infrared person reid
