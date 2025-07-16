@@ -22,7 +22,7 @@ I am a second-year master's student at Xidian University, advised by Prof. De Ch
   
   <div>
     <strong>Efficient Bilateral Cross-Modality Cluster Matching for Unsupervised Visible-Infrared Person Re-ID</strong><br>
-    De Cheng*, **Lingfeng He***, Nannan Wang, Shizhou Zhang, Zhen Wang, Xinbo Gao<br>
+    De Cheng*, <strong>Lingfeng He*</strong>, Nannan Wang, Shizhou Zhang, Zhen Wang, Xinbo Gao<br>
     <em>Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023 (CCF-A, Oral)</em><br><br>
 
     <a href="images/MBCCM.pdf">[PDF]</a> 
