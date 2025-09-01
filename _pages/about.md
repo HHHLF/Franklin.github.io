@@ -13,7 +13,7 @@ body {
 }
 </style>
 
-I am a second-year master's student at Xidian University, the State Key Laboratory of Integrated Services  Networks (ISN), advised by Prof. De Cheng and Prof. Nannan Wang. Prior to this, I received my bachelor degree in Aerospace Science and Technology in 2023. My research interests are in computer vision and multi-modal learning, with specific interest in **person re-identification**, **continual learning**, unsupervised and semi-supervised learning, parameter-efficient fine-tuning, few-shot learning, noisy label learning, etc.
+I am a second-year master's student at Xidian University, the State Key Laboratory of Integrated Services  Networks (ISN), advised by Prof. De Cheng and Prof. Nannan Wang. Prior to this, I received my bachelor degree in Aerospace Science and Technology in Xidian University in 2023. My research interests are in computer vision and multi-modal learning, with specific interest in **person re-identification**, **continual learning**, unsupervised and semi-supervised learning, multimodal learning, parameter-efficient fine-tuning, few-shot learning, noisy label learning, etc.
 
 [Email](lfhe@stu.xidian.edu.cn): lfhe@stu.xidian.edu.cn / [Github](https://github.com/FranklinLingfeng) / [Google scholar](https://scholar.google.com/citations?user=bUCPpbAAAAAJ&hl=zh-CN)
 
@@ -119,7 +119,7 @@ a Modality-Unified Label Transfer (MULT) module that simultaneously accounts for
 
 I'm He Lingfeng. My hometown is Ningbo, Zhejiang Province, China. I am currently pursuing a master degree at Xidian University in Xi'an, focusing on computer vision and multi-modal learning.
 
-I have a strong passion for music and often draw inspiration from it. Some of my favorite artists include David Tao, JJ Lin, Adam Lambert, Bruno Mars, Tori Kelly, and others whose music deeply resonates with me.
+I have a strong passion for music and often draw inspiration from it. Some of my favorite artists include JJ Lin, Adam Lambert, Bruno Mars, Tori Kelly, and others whose music deeply resonates with me.
 In addition to music, I am also very interested in sports. In my spare time, I enjoy playing basketball and badminton, as well as watching sports games like the NBA.
 
 I hope to connect with more like-minded friends through this platform, so we can share ideas and grow together.
