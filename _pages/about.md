@@ -113,6 +113,27 @@ a Modality-Unified Label Transfer (MULT) module that simultaneously accounts for
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-top: 10px;">
+  <img src="images/SECA_image.pdf" alt="Overall Framework" width="300" style="margin-right: 20px;">
+  
+  <div>
+    <strong>Harnessing Textual Semantic Priors for Knowledge Transfer and Refinement in CLIP-Driven Continual Learning</strong><br>
+    <strong>Lingfeng He</strong>, De Cheng, Huaijie Wang, Nannan Wang<br>
+    <em>Under the Association for the Advancement of Artificial Intelligence (AAAI) 2026 peer review</em><br><br>
+
+    <a href="images/SECA.pdf">[PDF]</a> 
+    <a href="https://www.arxiv.org/abs/2508.01579">[Arxiv]</a> 
+
+  <details style="margin-top:10px;">
+    <summary><strong>Abstract</strong></summary>
+    <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; border: 1px solid #ddd; font-size: 0.85em; line-height: 1.3;">
+      Abstract—Continual learning (CL) aims to equip models with the ability to learn from a stream of tasks without forgetting previous knowledge. With the progress of vision-language models like Contrastive Language-Image Pre-training (CLIP), their promise for CL has attracted increasing attention due to their strong generalizability. However, the potential of rich textual semantic priors in CLIP in addressing the stability-plasticity dilemma remains underexplored. During backbone training, most approaches transfer past knowledge without considering semantic relevance, leading to interference from unrelated tasks that disrupt the balance between stability and plasticity. Besides, while text-based classifiers provide strong generalization, they suffer from limited plasticity due to the inherent modality gap in CLIP. Visual classifiers help bridge this gap, but their prototypes lack rich and precise semantics. To address these challenges, we propose Semantic-Enriched Continual Adaptation (SECA), a unified framework that harnesses the anti-forgetting and structured nature of textual priors to guide semantic-aware knowledge transfer in the backbone and reinforce the semantic structure of the visual classifier. Specifically, a Semantic-Guided Adaptive Knowledge Transfer (SG-AKT) module is proposed to assess new images' relevance to diverse historical visual knowledge via textual cues, and aggregate relevant knowledge in an instance-adaptive manner as distillation signals. Moreover, a Semantic-Enhanced Visual Prototype Refinement (SE-VPR) module is introduced to refine visual prototypes using inter-class semantic relations captured in class-wise textual embeddings. Extensive experiments on multiple benchmarks validate the effectiveness of our approach.
+    </div>
+  </details>
+  </div>
+</div>
+
+
 ---
 
 ## Other Information
