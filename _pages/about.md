@@ -114,7 +114,7 @@ a Modality-Unified Label Transfer (MULT) module that simultaneously accounts for
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-top: 10px;">
-  <img src="images/SECA_image.pdf" alt="Overall Framework" width="300" style="margin-right: 20px;">
+  <img src="images/seca.png" alt="Overall Framework" width="300" style="margin-right: 20px;">
   
   <div>
     <strong>Harnessing Textual Semantic Priors for Knowledge Transfer and Refinement in CLIP-Driven Continual Learning</strong><br>
