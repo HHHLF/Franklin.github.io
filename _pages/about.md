@@ -581,6 +581,11 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
 ## 🤝 Co-author Papers
 
 <div class="coauthor-paper">
+  <strong>Hierarchical Identity Learning for Unsupervised Visible-Infrared Person Re-Identification (TIP 2026)</strong><br><a href="https://arxiv.org/abs/2509.11587">[Paper]</a>
+  Haonan Shi, Yubin Wang, De Cheng, <strong>Lingfeng He</strong>, Nannan Wang, Xinbo Gao<br>
+</div>
+
+<div class="coauthor-paper">
   <strong>EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning (IJCV 2026)</strong><br><a href="https://arxiv.org/abs/2506.12351">[Paper]</a>
   Huaijie Wang, De Cheng, <strong>Lingfeng He</strong>, Yan Li, Jie Li, Nannan Wang, Xinbo Gao<br>
 </div>
