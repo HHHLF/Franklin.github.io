@@ -581,6 +581,11 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
 ## 🤝 Co-author Papers
 
 <div class="coauthor-paper">
+  <strong>Adaptive Quantization for Stable Knowledge Acquisition in Quantization-Aware Continual Learning (TCSVT 2026)</strong><br><a href="https://ieeexplore.ieee.org/abstract/document/11614873">[Paper]</a>
+  De Cheng, Kun Gu, <strong>Lingfeng He<strong>, Huaijie Wang, Di Xu, Nannan Wang, Xinbo Gao<br>
+</div>
+
+<div class="coauthor-paper">
   <strong>Hierarchical Identity Learning for Unsupervised Visible-Infrared Person Re-Identification (TIP 2026)</strong><br><a href="https://arxiv.org/abs/2509.11587">[Paper]</a>
   Haonan Shi, Yubin Wang, De Cheng, <strong>Lingfeng He</strong>, Nannan Wang, Xinbo Gao<br>
 </div>
