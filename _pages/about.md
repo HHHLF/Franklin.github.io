@@ -395,6 +395,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
 ## 🔥 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.08]</span> One paper about Continual Learning is accepted by IEEE TIP 2026!</li>
   <li><span class="news-date">[2026.05]</span> One paper about Continual Learning is accepted by ICML 2026!</li>
   <li><span class="news-date">[2026.04]</span> I received the Hong Kong PhD Fellowship Scheme (HKPFS) award!</li>
   <li><span class="news-date">[2026.01]</span> I received the official offer from HKUST for Fall 2026!</li>
@@ -431,6 +432,31 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
           <ul>
             <li>We analyze LoRA learning capability in Continual Learning from a projection energy perspective.</li>
             <li>Based on the projection energy, we propose LoDA to decompose continual updates into two branches for learning general and task-specific knowledge.</li>
+          </ul>
+        </div>
+      </details>
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-visual">
+    <span class="badge venue-badge">TIP 2026</span>
+    <img class="publication-image" src="images/ckaa.png" alt="CKAA Framework">
+  </div>
+  
+  <div class="publication-info">
+    <strong>CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning</strong><br>
+    <strong>Lingfeng He</strong>, De Cheng, Zhiheng Ma, Huaijie Wang, Dingwen Zhang, Nannan Wang, Xinbo Gao<br><br>
+
+    <div class="publication-actions">
+      <a href="https://www.arxiv.org/pdf/2507.09471">[Paper]</a>
+      <details class="contribution-details">
+        <summary><strong>Contribution</strong></summary>
+        <div class="contribution">
+          <ul>
+            <li>We propose a DKA training approach for [Continual Learning with task-specific modules], which enhances model robustness under misleading task-IDs.</li>
+            <li>We propose Task-Confidence-guided Mixture-of-Adapter to better integrate task-specific information in inference without task-IDs.</li>
           </ul>
         </div>
       </details>
@@ -549,31 +575,6 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
 <span class="anchor" id="preprints"></span>
 
 ## 📌 Preprints (First author/Student first author)
-
-<div class="publication-item">
-  <div class="publication-visual">
-    <span class="badge venue-badge">TIP (Under Review)</span>
-    <img class="publication-image" src="images/ckaa.png" alt="CKAA Framework">
-  </div>
-  
-  <div class="publication-info">
-    <strong>CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning</strong><br>
-    <strong>Lingfeng He</strong>, De Cheng, Zhiheng Ma, Huaijie Wang, Dingwen Zhang, Nannan Wang, Xinbo Gao<br><br>
-
-    <div class="publication-actions">
-      <a href="https://www.arxiv.org/pdf/2507.09471">[Paper]</a>
-      <details class="contribution-details">
-        <summary><strong>Contribution</strong></summary>
-        <div class="contribution">
-          <ul>
-            <li>We propose a DKA training approach for [Continual Learning with task-specific modules], which enhances model robustness under misleading task-IDs.</li>
-            <li>We propose Task-Confidence-guided Mixture-of-Adapter to better integrate task-specific information in inference without task-IDs.</li>
-          </ul>
-        </div>
-      </details>
-    </div>
-  </div>
-</div>
 
 ---
 <span class="anchor" id="co-author-papers"></span>
