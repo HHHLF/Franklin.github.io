@@ -238,15 +238,7 @@ html[data-theme="dark"] .award-title {
     text-align: center;
 }
 
-.visitor-map__widget {
-    display: inline-block;
-    width: min(760px, 100%);
-    min-height: 300px;
-}
-
-.visitor-map__widget img,
-.visitor-map__widget iframe,
-.visitor-map__widget canvas {
+.visitor-map a#mapmyvisitors-widget {
     max-width: 100%;
 }
 
@@ -678,12 +670,8 @@ I hope to connect with more like-minded friends through this platform, so we can
 ---
 
 <div class="visitor-map" aria-label="Visitor map">
-  <div class="visitor-map__widget">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=x-9zeX-ElWDnjvj-zQXL34Ey7dGvuSRgoqB0H5_VIHU&cl=ffffff&w=a"></script>
-    <noscript>
-      <a href="https://mapmyvisitors.com" title="Visit tracker">
-        Visitor map
-      </a>
-    </noscript>
-  </div>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=x-9zeX-ElWDnjvj-zQXL34Ey7dGvuSRgoqB0H5_VIHU&cl=ffffff&w=760"></script>
+  <noscript>
+    <a href="https://mapmyvisitors.com" title="Visit tracker">Visitor map</a>
+  </noscript>
 </div>
