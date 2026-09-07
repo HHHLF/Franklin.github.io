@@ -233,6 +233,23 @@ html[data-theme="dark"] .award-title {
     color: #f2f2f2;
 }
 
+.visitor-map {
+    margin: 26px 0 8px;
+    text-align: center;
+}
+
+.visitor-map__widget {
+    display: inline-block;
+    width: min(760px, 100%);
+    min-height: 300px;
+}
+
+.visitor-map__widget img,
+.visitor-map__widget iframe,
+.visitor-map__widget canvas {
+    max-width: 100%;
+}
+
 @media screen and (min-width: 925px) {
     #main {
         max-width: 1420px;
@@ -659,3 +676,14 @@ I am also very interested in sports. In my spare time, I enjoy playing basketbal
 I hope to connect with more like-minded friends through this platform, so we can share ideas and grow together.
 
 ---
+
+<div class="visitor-map" aria-label="Visitor map">
+  <div class="visitor-map__widget">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=x-9zeX-ElWDnjvj-zQXL34Ey7dGvuSRgoqB0H5_VIHU&cl=ffffff&w=a"></script>
+    <noscript>
+      <a href="https://mapmyvisitors.com" title="Visit tracker">
+        Visitor map
+      </a>
+    </noscript>
+  </div>
+</div>
