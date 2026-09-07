@@ -670,7 +670,7 @@ I hope to connect with more like-minded friends through this platform, so we can
 ---
 
 <div class="visitor-map" aria-label="Visitor map">
-  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=x-9zeX-ElWDnjvj-zQXL34Ey7dGvuSRgoqB0H5_VIHU&cl=ffffff&w=760"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=x-9zeX-ElWDnjvj-zQXL34Ey7dGvuSRgoqB0H5_VIHU&cl=ffffff&w=380"></script>
   <noscript>
     <a href="https://mapmyvisitors.com" title="Visit tracker">Visitor map</a>
   </noscript>
