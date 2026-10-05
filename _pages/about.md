@@ -591,6 +591,11 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
 ## 🤝 Co-author Papers
 
 <div class="coauthor-paper">
+  <strong>Modulating Merging Strengths via Joint Loss Estimation for LoRA-based Continual Learning (NIPS 2026)</strong><br><a href="https://openreview.net/forum?id=zRXaWRbyGH#discussion">[Paper]</a>
+  Kun Gu, De Cheng, Zhipeng Xu, <strong>Lingfeng He</strong>, Di Xu, Nannan Wang<br>
+</div>
+
+<div class="coauthor-paper">
   <strong>Adaptive Quantization for Stable Knowledge Acquisition in Quantization-Aware Continual Learning (TCSVT 2026)</strong><br><a href="https://ieeexplore.ieee.org/abstract/document/11614873">[Paper]</a>
   De Cheng, Kun Gu, <strong>Lingfeng He</strong>, Huaijie Wang, Di Xu, Nannan Wang, Xinbo Gao<br>
 </div>
